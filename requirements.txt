@@ -1,0 +1,5 @@
+celery==5.2.7
+requests==2.28.0
+telegram-send==0.34
+redis==4.3.4
+flower==1.0.0 
